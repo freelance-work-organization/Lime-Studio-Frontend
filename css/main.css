@@ -133,6 +133,11 @@ textarea {vertical-align: top;overflow: auto;
     }
 }
 
+main{
+    height: 100%;
+    width: 100%;
+}
+
 button{
     padding: 20px 45px;
     border-radius: 5px;
@@ -209,4 +214,9 @@ button{
 .center{
     margin-left: auto;
     margin-right: auto;
+}
+
+.max-content{
+    width: max-content;
+    height: max-content;
 }
