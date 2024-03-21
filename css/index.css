@@ -1,0 +1,22 @@
+.header-container{
+    width: 100%;
+    padding: 10px 20px;
+}
+
+.header-link-item{
+    margin: 40px 25px;
+}
+
+.header-logo{
+    width: 310px;
+    height: 75px;
+}
+
+.header-link-item img{
+    width: 20px;
+    height: 20px;
+}
+
+.header-contact .header-link-item{
+    margin: 40px 15px;
+}
