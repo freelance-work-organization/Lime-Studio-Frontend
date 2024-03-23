@@ -216,6 +216,11 @@ button{
     margin-right: auto;
 }
 
+.center-v{
+    margin-top: auto;
+    margin-bottom: auto;
+}
+
 .max-content{
     width: max-content;
     height: max-content;
