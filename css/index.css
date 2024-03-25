@@ -72,6 +72,10 @@
     height: 640px;
 }
 
+.portfolio{
+    padding-bottom: 130px;
+}
+
 .portfolio-text{
     padding: 75px 175px;
 }
@@ -79,4 +83,40 @@
 .portfolio-title{
     font-size: 60px;
     color: white;
+}
+
+.scheme-work{
+    margin-top: 113px;
+    width: 85%;
+}
+
+.scheme-work-title{
+    font-size: 60px;
+    color: #181818;
+    margin-bottom: 40px;
+}
+
+.work-item{
+    width: 380px;
+    margin: 0 12px;
+}
+
+.work-step{
+    background-color: #FBFAF9;
+}
+
+.work-step-number{
+    background-color: #89B867;
+    color: white;
+    font-size: 24px;
+    padding: 13px 24px;
+}
+
+.work-step-title{
+    color: #2E2E34;
+    font-size: 20px;
+}
+
+.work-text{
+    margin-top: 16px;
 }
