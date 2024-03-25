@@ -71,3 +71,12 @@
     width: 850px;
     height: 640px;
 }
+
+.portfolio-text{
+    padding: 75px 175px;
+}
+
+.portfolio-title{
+    font-size: 60px;
+    color: white;
+}
