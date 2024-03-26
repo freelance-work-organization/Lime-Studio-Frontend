@@ -48,14 +48,8 @@
     margin-right: 10%;
 }
 
-.service-title{
-    font-size: 40px;
-    color: #2E2E34;
-}
-
-.service-title span{
-    font-size: 40px;
-    color: #2E2E34;
+.service-info .sub-title{
+    margin-bottom: 75px;
 }
 
 .service-list{
@@ -65,6 +59,7 @@
 
 .service-item{
     color: #2E2E34;
+    font-size: 20px;
 }
 
 .service-image{
@@ -80,14 +75,17 @@
     padding: 75px 175px;
 }
 
-.portfolio-title{
-    font-size: 60px;
+.portfolio-text .title{
     color: white;
 }
 
 .scheme-work{
     margin-top: 113px;
     width: 85%;
+}
+
+.scheme-work .title{
+    margin-bottom: 50px;
 }
 
 .scheme-work-title{
@@ -119,4 +117,24 @@
 
 .work-text{
     margin-top: 16px;
+}
+
+.advantages-section{
+    margin: 84px 72px;
+}
+
+.advantages-section .title{
+    margin-bottom: 70px;
+}
+
+.advantages-text{
+    margin-right: 50px;
+}
+
+.advantages-text .sub-title{
+    margin-bottom: 50px;
+}
+
+.advantages-text .green-button{
+    margin-top: 30px;
 }

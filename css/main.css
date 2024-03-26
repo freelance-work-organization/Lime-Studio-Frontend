@@ -225,3 +225,13 @@ button{
     width: max-content;
     height: max-content;
 }
+
+.title{
+    font-size: 60px;
+    color: #2E2E34;
+}
+
+.sub-title{
+    font-size: 40px;
+    color: #2E2E34;
+}
