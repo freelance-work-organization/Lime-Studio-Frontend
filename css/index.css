@@ -40,7 +40,7 @@
     margin: 0 5px;
 }
 
-.service{
+.service-section{
     margin-top: 100px;
 }
 
@@ -67,7 +67,7 @@
     height: 640px;
 }
 
-.portfolio{
+.portfolio-section{
     padding-bottom: 130px;
 }
 
@@ -79,7 +79,7 @@
     color: white;
 }
 
-.scheme-work{
+.scheme-work-section{
     margin-top: 113px;
     width: 85%;
 }
@@ -137,4 +137,35 @@
 
 .advantages-text .green-button{
     margin-top: 30px;
+}
+
+.review-section{
+    margin-top: 100px;
+    padding: 0 75px;
+}
+
+.review{
+    width: 510px;
+    height: 310px;
+    margin: 25px 25px 0 0;
+    padding: 24px;
+    background-color: #F7F6F4;
+    position: relative;
+}
+
+.review-profile-img{
+    width: 64px;
+    height: 64px;
+    margin: 0 20px 20px 0;
+}
+
+.review-profile-name{
+    color: #8C8580;
+    font-size: 20px;
+}
+
+.all-review{
+    padding: 0;
+    position: absolute;
+    bottom: 24px;
 }
