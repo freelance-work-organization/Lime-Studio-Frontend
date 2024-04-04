@@ -169,3 +169,44 @@
     position: absolute;
     bottom: 24px;
 }
+
+.contact-section{
+    margin-top: 126px;
+    width: 1584px;
+    height: 451px;
+    padding: 90px 0;
+}
+
+.contact-container{
+    padding: 41px 134px;
+    height: 265px;
+    width: 1048px;
+}
+
+.contact-title .title{
+    color: white;
+}
+
+.contact-title .sub-title{
+    color: white;
+}
+
+.contact-form{
+    margin-top: 20px;
+}
+
+.contact-form input{
+    width: 280px;
+    height: 55px;
+    font-size: 18px;
+    padding: 18px 20px;
+}
+
+.contact-phone-number{
+    margin: 0 31px;
+}
+
+.contact-submit-button{
+    background-color: #8C8580;
+    border-color: white;
+}
